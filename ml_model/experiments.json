@@ -1,0 +1,35 @@
+{
+    "27": {
+        "EXPERIMENT_ID": 27,
+        "DATA_PATH": "../data/02_intermediate_small_problem_data.csv",
+        "CHECKPOINT_PATH": "logs/",
+        "SEQ_LEN": 8,
+        "LEARNING_RATE": 0.002,
+        "NUM_EPOCHS": 1600,
+        "NUM_LAYERS": 1,
+        "XZ_RATIO": 2,
+        "MAN_SEED": 42
+    },
+    "53": {
+        "EXPERIMENT_ID": 53,
+        "DATA_PATH": "../data/03_medium_problem_data.csv",
+        "CHECKPOINT_PATH": "logs/",
+        "SEQ_LEN": 16,
+        "LEARNING_RATE": 0.0002,
+        "NUM_EPOCHS": 400,
+        "NUM_LAYERS": 1,
+        "XZ_RATIO": 2,
+        "MAN_SEED": 42
+    },
+    "6": {
+        "EXPERIMENT_ID": 6,
+        "DATA_PATH": "../data/01_small_problem_data.csv",
+        "CHECKPOINT_PATH": "logs/",
+        "SEQ_LEN": 4,
+        "LEARNING_RATE": 0.002,
+        "NUM_EPOCHS": 1600,
+        "NUM_LAYERS": 1,
+        "XZ_RATIO": 2,
+        "MAN_SEED": 42
+    }
+}
