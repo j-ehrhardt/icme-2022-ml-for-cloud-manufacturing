@@ -1,3 +1,7 @@
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)](https://www.python.org/downloads/release/python-380/)
+[![Mamba](https://img.shields.io/badge/Mamba-1.5.8-green)](https://mamba.readthedocs.io)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-red)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
 
 # ICME 2022 - A Machine Learning Approach for Revenue Management in  Cloud Manufacturing
 
@@ -16,9 +20,9 @@ Models and datasets are published on GitHub.
 
 ## Requirements
 
-Requirements for a conda venv are saved in `icme-2022.yml`.
+Requirements for a mamba venv are saved in `icme-2022.yml`.
 
-For creating a conda env run `conda env create -f venv-icme-2022.yml` in your terminal.
+For creating a mamba env run `mamba env create -f venv-icme-2022.yml` in your terminal.
 
 
 ## Quickrun
